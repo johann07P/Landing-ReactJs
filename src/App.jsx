@@ -1,7 +1,10 @@
+import Header from "./conponents/header";
+
 function App() {
   
 
-  return <div className="bg-amber-400"> Hola mundo</div>;
+  return <div><Header/>
+  </div>;
 }
 
 export default App
